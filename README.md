@@ -1,11 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## comando para usar la version 12 con typescript
+## Comando para usar la version 12 con typescript
 
-´´´
-npx create-next-app@12.1.0 --typescript
-
-´´´
+```bash
+npx create-next-app@12.0.10 --typescript
+```
 
 ## Getting Started
 
